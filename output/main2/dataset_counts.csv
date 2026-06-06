@@ -1,0 +1,5 @@
+﻿split,class,path,count
+train,cats,/content/drive/MyDrive/HOCSAU/data/dataset_combined_main/training_set/cats,8000
+train,dogs,/content/drive/MyDrive/HOCSAU/data/dataset_combined_main/training_set/dogs,8000
+test,cats,/content/drive/MyDrive/HOCSAU/data/dataset_combined_main/test_set/cats,2000
+test,dogs,/content/drive/MyDrive/HOCSAU/data/dataset_combined_main/test_set/dogs,2000

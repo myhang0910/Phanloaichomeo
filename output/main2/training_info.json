@@ -1,0 +1,27 @@
+{
+  "project_dir": "/content/drive/MyDrive/HOCSAU",
+  "dataset_dir": "/content/drive/MyDrive/HOCSAU/data/dataset_combined_main",
+  "output_dir": "/content/drive/MyDrive/HOCSAU/output/main2",
+  "train_images": 16000,
+  "test_images": 4000,
+  "img_size": [
+    150,
+    150
+  ],
+  "batch_size": 32,
+  "target_epochs": 100,
+  "epochs_logged": 66,
+  "initial_learning_rate": 0.001,
+  "best_model_path": "/content/drive/MyDrive/HOCSAU/output/main2/best_cnn_cats_dogs_main2.keras",
+  "latest_model_path": "/content/drive/MyDrive/HOCSAU/output/main2/latest_cnn_cats_dogs_main2.keras",
+  "final_model_path": "/content/drive/MyDrive/HOCSAU/output/main2/final_cnn_cats_dogs_main2.keras",
+  "recommended_threshold": 0.35000000000000003,
+  "final_test_metrics": {
+    "threshold": 0.35000000000000003,
+    "accuracy": 0.95775,
+    "precision": 0.9654295882053889,
+    "recall": 0.9495,
+    "f1": 0.9573985379379885,
+    "auc": 0.99278575
+  }
+}

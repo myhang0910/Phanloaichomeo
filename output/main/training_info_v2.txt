@@ -1,0 +1,21 @@
+THÔNG TIN HUẤN LUYỆN MÔ HÌNH CNN
+============================================================
+Dataset train: /content/drive/MyDrive/Colab Notebooks/HOCSAU/data/dataset_combined_main/training_set
+Dataset test: /content/drive/MyDrive/Colab Notebooks/HOCSAU/data/dataset_combined_main/test_set
+IMG_SIZE: (150, 150)
+BATCH_SIZE: 32
+Learning rate: 0.0003
+Total epochs in log: 61
+
+Best validation accuracy: 0.9444 tại epoch 54
+Best validation loss: 0.1542 tại epoch 53
+
+Final train accuracy: 0.9660
+Final validation accuracy: 0.9403
+Final train loss: 0.0888
+Final validation loss: 0.1644
+
+Best model: /content/drive/MyDrive/Colab Notebooks/HOCSAU/output/main/best_cnn_cats_dogs_v2.keras
+Latest model: /content/drive/MyDrive/Colab Notebooks/HOCSAU/output/main/latest_cnn_cats_dogs_v2.keras
+Final model: /content/drive/MyDrive/Colab Notebooks/HOCSAU/output/main/final_cnn_cats_dogs_v2.keras
+Training log: /content/drive/MyDrive/Colab Notebooks/HOCSAU/output/main/training_log_v2.csv

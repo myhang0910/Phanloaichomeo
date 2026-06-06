@@ -1,0 +1,3 @@
+﻿source,source_split,class,path,reason,error,original_mode,original_bands
+microsoft,raw,cats,/content/drive/MyDrive/HOCSAU/data/catdog_microsoft/Cat/666.jpg,image_read_or_rgb_convert_error,cannot identify image file '/content/drive/MyDrive/HOCSAU/data/catdog_microsoft/Cat/666.jpg',,
+microsoft,raw,dogs,/content/drive/MyDrive/HOCSAU/data/catdog_microsoft/Dog/11702.jpg,image_read_or_rgb_convert_error,cannot identify image file '/content/drive/MyDrive/HOCSAU/data/catdog_microsoft/Dog/11702.jpg',,

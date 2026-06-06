@@ -1,0 +1,41 @@
+TÓM TẮT DATASET GỘP 80/20
+============================================================
+
+Dataset cũ:
+/content/drive/MyDrive/HOCSAU/data/catdog
+
+Dataset Microsoft:
+/content/drive/MyDrive/HOCSAU/data/catdog_microsoft
+
+Dataset gộp:
+/content/drive/MyDrive/HOCSAU/data/dataset_combined_main
+
+Cấu hình:
+- TARGET_IMAGES_PER_CLASS: 10000
+- TRAIN_RATIO: 0.8
+- SEED: 42
+- REBUILD: True
+- Ảnh đầu ra: RGB 3-channel, đã convert bằng PIL trước khi lưu
+
+Số ảnh cuối cùng:
+- train/cats: 8000
+- train/dogs: 8000
+- test/cats: 2000
+- test/dogs: 2000
+
+Tổng train: 16000
+Tổng test: 4000
+Tổng toàn bộ: 20000
+
+Tỷ lệ train/test:
+- train: 80.00%
+- test: 20.00%
+
+Lọc dữ liệu:
+- Ảnh lỗi / không convert RGB được: 2
+- Ảnh trùng nội dung đã loại bằng MD5: 46
+
+Thời gian chạy: 1313.02 giây
+
+File log:
+/content/drive/MyDrive/HOCSAU/output/main/dataset_build_logs

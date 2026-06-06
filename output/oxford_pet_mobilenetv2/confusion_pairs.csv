@@ -1,0 +1,61 @@
+﻿true_label,true_class,true_class_display,pred_label,pred_class,pred_class_display,count
+1,Bengal,Bengal,5,Egyptian_Mau,Egyptian Mau,5
+13,american_pit_bull_terrier,American Pit Bull Terrier,34,staffordshire_bull_terrier,Staffordshire Bull Terrier,5
+34,staffordshire_bull_terrier,Staffordshire Bull Terrier,13,american_pit_bull_terrier,American Pit Bull Terrier,4
+9,Russian_Blue,Russian Blue,4,British_Shorthair,British Shorthair,4
+8,Ragdoll,Ragdoll,2,Birman,Birman,3
+10,Siamese,Siamese,2,Birman,Birman,3
+7,Persian,Persian,6,Maine_Coon,Maine Coon,2
+5,Egyptian_Mau,Egyptian Mau,4,British_Shorthair,British Shorthair,2
+3,Bombay,Bombay,4,British_Shorthair,British Shorthair,2
+17,chihuahua,Chihuahua,26,miniature_pinscher,Miniature Pinscher,2
+4,British_Shorthair,British Shorthair,9,Russian_Blue,Russian Blue,2
+13,american_pit_bull_terrier,American Pit Bull Terrier,12,american_bulldog,American Bulldog,2
+16,boxer,Boxer,12,american_bulldog,American Bulldog,2
+26,miniature_pinscher,Miniature Pinscher,17,chihuahua,Chihuahua,2
+28,pomeranian,Pomeranian,31,samoyed,Samoyed,2
+25,leonberger,Leonberger,24,keeshond,Keeshond,2
+14,basset_hound,Basset Hound,15,beagle,Beagle,2
+8,Ragdoll,Ragdoll,7,Persian,Persian,1
+8,Ragdoll,Ragdoll,6,Maine_Coon,Maine Coon,1
+6,Maine_Coon,Maine Coon,23,japanese_chin,Japanese Chin,1
+6,Maine_Coon,Maine Coon,0,Abyssinian,Abyssinian,1
+5,Egyptian_Mau,Egyptian Mau,0,Abyssinian,Abyssinian,1
+2,Birman,Birman,8,Ragdoll,Ragdoll,1
+2,Birman,Birman,10,Siamese,Siamese,1
+1,Bengal,Bengal,6,Maine_Coon,Maine Coon,1
+1,Bengal,Bengal,0,Abyssinian,Abyssinian,1
+0,Abyssinian,Abyssinian,5,Egyptian_Mau,Egyptian Mau,1
+0,Abyssinian,Abyssinian,33,shiba_inu,Shiba Inu,1
+13,american_pit_bull_terrier,American Pit Bull Terrier,33,shiba_inu,Shiba Inu,1
+13,american_pit_bull_terrier,American Pit Bull Terrier,16,boxer,Boxer,1
+12,american_bulldog,American Bulldog,34,staffordshire_bull_terrier,Staffordshire Bull Terrier,1
+12,american_bulldog,American Bulldog,19,english_setter,English Setter,1
+11,Sphynx,Sphynx,17,chihuahua,Chihuahua,1
+12,american_bulldog,American Bulldog,16,boxer,Boxer,1
+8,Ragdoll,Ragdoll,10,Siamese,Siamese,1
+9,Russian_Blue,Russian Blue,0,Abyssinian,Abyssinian,1
+18,english_cocker_spaniel,English Cocker Spaniel,26,miniature_pinscher,Miniature Pinscher,1
+19,english_setter,English Setter,12,american_bulldog,American Bulldog,1
+19,english_setter,English Setter,18,english_cocker_spaniel,English Cocker Spaniel,1
+19,english_setter,English Setter,14,basset_hound,Basset Hound,1
+20,german_shorthaired,German Shorthaired,14,basset_hound,Basset Hound,1
+15,beagle,Beagle,14,basset_hound,Basset Hound,1
+15,beagle,Beagle,26,miniature_pinscher,Miniature Pinscher,1
+15,beagle,Beagle,12,american_bulldog,American Bulldog,1
+23,japanese_chin,Japanese Chin,14,basset_hound,Basset Hound,1
+21,great_pyrenees,Great Pyrenees,31,samoyed,Samoyed,1
+20,german_shorthaired,German Shorthaired,19,english_setter,English Setter,1
+26,miniature_pinscher,Miniature Pinscher,13,american_pit_bull_terrier,American Pit Bull Terrier,1
+29,pug,Pug,8,Ragdoll,Ragdoll,1
+29,pug,Pug,16,boxer,Boxer,1
+30,saint_bernard,Saint Bernard,16,boxer,Boxer,1
+27,newfoundland,Newfoundland,20,german_shorthaired,German Shorthaired,1
+30,saint_bernard,Saint Bernard,23,japanese_chin,Japanese Chin,1
+33,shiba_inu,Shiba Inu,15,beagle,Beagle,1
+33,shiba_inu,Shiba Inu,30,saint_bernard,Saint Bernard,1
+33,shiba_inu,Shiba Inu,26,miniature_pinscher,Miniature Pinscher,1
+34,staffordshire_bull_terrier,Staffordshire Bull Terrier,12,american_bulldog,American Bulldog,1
+34,staffordshire_bull_terrier,Staffordshire Bull Terrier,31,samoyed,Samoyed,1
+36,yorkshire_terrier,Yorkshire Terrier,22,havanese,Havanese,1
+36,yorkshire_terrier,Yorkshire Terrier,32,scottish_terrier,Scottish Terrier,1

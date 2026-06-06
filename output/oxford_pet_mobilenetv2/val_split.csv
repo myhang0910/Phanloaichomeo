@@ -1,0 +1,740 @@
+﻿path,file_name,breed,breed_display,species,species_vi,label
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_244.jpg,Maine_Coon_244.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_172.jpg,wheaten_terrier_172.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_200.jpg,British_Shorthair_200.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_9.jpg,scottish_terrier_9.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_106.jpg,shiba_inu_106.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_27.jpg,British_Shorthair_27.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_4.jpg,wheaten_terrier_4.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_171.jpg,newfoundland_171.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_138.jpg,Egyptian_Mau_138.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_54.jpg,newfoundland_54.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_168.jpg,shiba_inu_168.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_32.jpg,Abyssinian_32.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_153.jpg,British_Shorthair_153.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_29.jpg,Russian_Blue_29.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_87.jpg,Russian_Blue_87.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_134.jpg,Bombay_134.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_99.jpg,Ragdoll_99.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_93.jpg,samoyed_93.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_182.jpg,leonberger_182.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_8.jpg,shiba_inu_8.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_34.jpg,german_shorthaired_34.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_90.jpg,havanese_90.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_70.jpg,basset_hound_70.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_74.jpg,Siamese_74.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_123.jpg,chihuahua_123.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_14.jpg,miniature_pinscher_14.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_171.jpg,basset_hound_171.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_68.jpg,shiba_inu_68.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_36.jpg,miniature_pinscher_36.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_198.jpg,yorkshire_terrier_198.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_4.jpg,saint_bernard_4.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_21.jpg,basset_hound_21.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_162.jpg,japanese_chin_162.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_74.jpg,basset_hound_74.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_94.jpg,american_bulldog_94.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_97.jpg,great_pyrenees_97.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_13.jpg,newfoundland_13.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_224.jpg,Egyptian_Mau_224.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_76.jpg,basset_hound_76.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_45.jpg,wheaten_terrier_45.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_144.jpg,chihuahua_144.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_57.jpg,staffordshire_bull_terrier_57.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_150.jpg,Sphynx_150.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_107.jpg,american_pit_bull_terrier_107.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_44.jpg,basset_hound_44.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_63.jpg,Bengal_63.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_51.jpg,Persian_51.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_49.jpg,Birman_49.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_10.jpg,wheaten_terrier_10.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_175.jpg,saint_bernard_175.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_193.jpg,english_cocker_spaniel_193.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_119.jpg,Egyptian_Mau_119.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_140.jpg,great_pyrenees_140.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_126.jpg,samoyed_126.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_49.jpg,japanese_chin_49.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_116.jpg,pug_116.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_91.jpg,scottish_terrier_91.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_34.jpg,chihuahua_34.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_18.jpg,Egyptian_Mau_18.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_49.jpg,beagle_49.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_110.jpg,staffordshire_bull_terrier_110.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_97.jpg,pomeranian_97.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_53.jpg,pug_53.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_97.jpg,samoyed_97.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_51.jpg,english_cocker_spaniel_51.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_50.jpg,american_pit_bull_terrier_50.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_164.jpg,american_bulldog_164.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_48.jpg,Birman_48.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_186.jpg,Bengal_186.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_111.jpg,german_shorthaired_111.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_69.jpg,boxer_69.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_28.jpg,japanese_chin_28.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_49.jpg,chihuahua_49.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_88.jpg,japanese_chin_88.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_95.jpg,american_bulldog_95.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_64.jpg,Maine_Coon_64.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_18.jpg,keeshond_18.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_158.jpg,pomeranian_158.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_15.jpg,german_shorthaired_15.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_112.jpg,pomeranian_112.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_120.jpg,leonberger_120.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_100.jpg,saint_bernard_100.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_125.jpg,pug_125.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_151.jpg,english_setter_151.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_31.jpg,staffordshire_bull_terrier_31.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_15.jpg,great_pyrenees_15.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_117.jpg,pug_117.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_61.jpg,american_bulldog_61.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_6.jpg,staffordshire_bull_terrier_6.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_68.jpg,Bombay_68.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_38.jpg,miniature_pinscher_38.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_178.jpg,havanese_178.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_39.jpg,english_cocker_spaniel_39.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_160.jpg,basset_hound_160.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_144.jpg,boxer_144.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_115.jpg,great_pyrenees_115.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_101.jpg,pomeranian_101.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_228.jpg,Sphynx_228.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_102.jpg,american_pit_bull_terrier_102.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_185.jpg,Bombay_185.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_14.jpg,Siamese_14.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_59.jpg,pug_59.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_86.jpg,leonberger_86.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_101.jpg,german_shorthaired_101.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_132.jpg,english_cocker_spaniel_132.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_170.jpg,Maine_Coon_170.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_102.jpg,Sphynx_102.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_174.jpg,miniature_pinscher_174.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_79.jpg,english_cocker_spaniel_79.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_179.jpg,basset_hound_179.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_117.jpg,miniature_pinscher_117.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_147.jpg,german_shorthaired_147.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_181.jpg,american_bulldog_181.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_9.jpg,miniature_pinscher_9.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_196.jpg,newfoundland_196.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_32.jpg,basset_hound_32.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_68.jpg,scottish_terrier_68.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_65.jpg,american_bulldog_65.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_195.jpg,miniature_pinscher_195.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_43.jpg,Bombay_43.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_2.jpg,great_pyrenees_2.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_156.jpg,Russian_Blue_156.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_261.jpg,Persian_261.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_69.jpg,Bombay_69.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_22.jpg,scottish_terrier_22.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_50.jpg,basset_hound_50.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_92.jpg,english_setter_92.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_14.jpg,Persian_14.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_179.jpg,leonberger_179.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_52.jpg,Egyptian_Mau_52.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_110.jpg,British_Shorthair_110.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_146.jpg,Bengal_146.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_113.jpg,boxer_113.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_142.jpg,Abyssinian_142.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_16.jpg,Maine_Coon_16.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_91.jpg,Maine_Coon_91.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_157.jpg,samoyed_157.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_94.jpg,miniature_pinscher_94.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_186.jpg,yorkshire_terrier_186.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_188.jpg,Bombay_188.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_140.jpg,miniature_pinscher_140.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_131.jpg,Sphynx_131.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_206.jpg,Abyssinian_206.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_260.jpg,Ragdoll_260.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_35.jpg,pug_35.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_74.jpg,Bombay_74.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_187.jpg,english_cocker_spaniel_187.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_136.jpg,chihuahua_136.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_48.jpg,japanese_chin_48.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_28.jpg,Birman_28.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_155.jpg,Birman_155.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_113.jpg,staffordshire_bull_terrier_113.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_173.jpg,pomeranian_173.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_117.jpg,samoyed_117.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_90.jpg,miniature_pinscher_90.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_146.jpg,leonberger_146.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_192.jpg,english_setter_192.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_191.jpg,samoyed_191.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_191.jpg,german_shorthaired_191.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_96.jpg,american_bulldog_96.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_59.jpg,scottish_terrier_59.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_18.jpg,scottish_terrier_18.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_206.jpg,Maine_Coon_206.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_90.jpg,yorkshire_terrier_90.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_14.jpg,german_shorthaired_14.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_96.jpg,keeshond_96.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_126.jpg,Persian_126.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_204.jpg,Ragdoll_204.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_83.jpg,boxer_83.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_84.jpg,Bengal_84.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_151.jpg,japanese_chin_151.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_6.jpg,Abyssinian_6.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_2.jpg,german_shorthaired_2.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_99.jpg,basset_hound_99.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_98.jpg,scottish_terrier_98.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_93.jpg,german_shorthaired_93.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_187.jpg,Maine_Coon_187.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_15.jpg,British_Shorthair_15.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_42.jpg,american_bulldog_42.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_129.jpg,german_shorthaired_129.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_52.jpg,saint_bernard_52.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_41.jpg,Russian_Blue_41.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_174.jpg,leonberger_174.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_26.jpg,Birman_26.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_179.jpg,Birman_179.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_20.jpg,Russian_Blue_20.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_153.jpg,Maine_Coon_153.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_79.jpg,pug_79.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_138.jpg,yorkshire_terrier_138.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_182.jpg,saint_bernard_182.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_224.jpg,Ragdoll_224.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_101.jpg,Persian_101.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_79.jpg,shiba_inu_79.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_157.jpg,english_setter_157.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_136.jpg,Russian_Blue_136.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_11.jpg,leonberger_11.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_236.jpg,Russian_Blue_236.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_64.jpg,beagle_64.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_131.jpg,boxer_131.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_195.jpg,Maine_Coon_195.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_115.jpg,Birman_115.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_190.jpg,havanese_190.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_122.jpg,Siamese_122.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_192.jpg,keeshond_192.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_47.jpg,miniature_pinscher_47.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_63.jpg,staffordshire_bull_terrier_63.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_82.jpg,Bombay_82.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_149.jpg,havanese_149.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_74.jpg,Russian_Blue_74.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_62.jpg,english_cocker_spaniel_62.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_196.jpg,boxer_196.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_221.jpg,american_bulldog_221.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_151.jpg,leonberger_151.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_51.jpg,Bengal_51.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_68.jpg,american_bulldog_68.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_187.jpg,chihuahua_187.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_159.jpg,Siamese_159.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_39.jpg,american_pit_bull_terrier_39.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_22.jpg,Bombay_22.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_59.jpg,saint_bernard_59.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_139.jpg,english_setter_139.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_12.jpg,Russian_Blue_12.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_146.jpg,wheaten_terrier_146.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_95.jpg,Maine_Coon_95.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_194.jpg,english_setter_194.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_158.jpg,great_pyrenees_158.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_184.jpg,Persian_184.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_148.jpg,Birman_148.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_23.jpg,Birman_23.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_158.jpg,miniature_pinscher_158.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_41.jpg,Birman_41.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_103.jpg,great_pyrenees_103.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_136.jpg,staffordshire_bull_terrier_136.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_187.jpg,american_pit_bull_terrier_187.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_84.jpg,leonberger_84.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_79.jpg,Ragdoll_79.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_103.jpg,scottish_terrier_103.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_3.jpg,Maine_Coon_3.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_24.jpg,staffordshire_bull_terrier_24.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_76.jpg,Siamese_76.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_22.jpg,pomeranian_22.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_143.jpg,great_pyrenees_143.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_11.jpg,Birman_11.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_157.jpg,basset_hound_157.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_101.jpg,english_cocker_spaniel_101.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_169.jpg,yorkshire_terrier_169.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_53.jpg,newfoundland_53.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_76.jpg,shiba_inu_76.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_199.jpg,pomeranian_199.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_93.jpg,Abyssinian_93.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_94.jpg,chihuahua_94.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_119.jpg,British_Shorthair_119.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_38.jpg,english_setter_38.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_36.jpg,american_bulldog_36.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_30.jpg,wheaten_terrier_30.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_177.jpg,chihuahua_177.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_14.jpg,pomeranian_14.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_51.jpg,Egyptian_Mau_51.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_173.jpg,keeshond_173.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_157.jpg,Abyssinian_157.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_164.jpg,Ragdoll_164.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_187.jpg,saint_bernard_187.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_234.jpg,Sphynx_234.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_39.jpg,japanese_chin_39.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_39.jpg,newfoundland_39.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_73.jpg,Bengal_73.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_148.jpg,havanese_148.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_2.jpg,keeshond_2.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_75.jpg,leonberger_75.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_30.jpg,chihuahua_30.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_180.jpg,Sphynx_180.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_196.jpg,american_pit_bull_terrier_196.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_113.jpg,chihuahua_113.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_172.jpg,english_cocker_spaniel_172.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_145.jpg,english_setter_145.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_31.jpg,shiba_inu_31.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_185.jpg,newfoundland_185.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_192.jpg,Sphynx_192.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_120.jpg,British_Shorthair_120.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_5.jpg,newfoundland_5.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_25.jpg,english_setter_25.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_89.jpg,keeshond_89.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_111.jpg,saint_bernard_111.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_80.jpg,Abyssinian_80.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_4.jpg,Sphynx_4.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_190.jpg,beagle_190.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_109.jpg,american_pit_bull_terrier_109.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_57.jpg,Maine_Coon_57.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_122.jpg,american_bulldog_122.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_226.jpg,Russian_Blue_226.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_30.jpg,beagle_30.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_89.jpg,yorkshire_terrier_89.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_89.jpg,Bombay_89.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_40.jpg,great_pyrenees_40.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_194.jpg,pomeranian_194.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_77.jpg,american_bulldog_77.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_33.jpg,Egyptian_Mau_33.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_124.jpg,British_Shorthair_124.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_53.jpg,Ragdoll_53.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_155.jpg,havanese_155.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_18.jpg,yorkshire_terrier_18.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_163.jpg,scottish_terrier_163.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_198.jpg,Siamese_198.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_62.jpg,Abyssinian_62.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_21.jpg,shiba_inu_21.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_141.jpg,japanese_chin_141.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_109.jpg,yorkshire_terrier_109.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_189.jpg,Siamese_189.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_142.jpg,english_cocker_spaniel_142.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_27.jpg,Siamese_27.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_132.jpg,havanese_132.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_161.jpg,Bengal_161.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_1.jpg,boxer_1.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_142.jpg,english_setter_142.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_170.jpg,yorkshire_terrier_170.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_1.jpg,Birman_1.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_65.jpg,beagle_65.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_82.jpg,samoyed_82.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_22.jpg,Persian_22.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_83.jpg,Siamese_83.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_181.jpg,pomeranian_181.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_69.jpg,basset_hound_69.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_33.jpg,beagle_33.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_68.jpg,leonberger_68.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_54.jpg,yorkshire_terrier_54.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_56.jpg,havanese_56.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_67.jpg,Egyptian_Mau_67.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_74.jpg,Sphynx_74.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_88.jpg,Ragdoll_88.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_248.jpg,Sphynx_248.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_181.jpg,Birman_181.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_86.jpg,keeshond_86.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_188.jpg,leonberger_188.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_130.jpg,scottish_terrier_130.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_98.jpg,german_shorthaired_98.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_193.jpg,Bengal_193.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_180.jpg,boxer_180.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_103.jpg,British_Shorthair_103.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_142.jpg,japanese_chin_142.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_152.jpg,Abyssinian_152.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_150.jpg,yorkshire_terrier_150.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_33.jpg,basset_hound_33.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_180.jpg,Maine_Coon_180.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_18.jpg,samoyed_18.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_26.jpg,keeshond_26.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_13.jpg,beagle_13.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_72.jpg,saint_bernard_72.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_147.jpg,great_pyrenees_147.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_44.jpg,yorkshire_terrier_44.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_20.jpg,samoyed_20.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_156.jpg,Egyptian_Mau_156.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_172.jpg,chihuahua_172.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_117.jpg,keeshond_117.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_199.jpg,pug_199.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_117.jpg,chihuahua_117.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_117.jpg,Ragdoll_117.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_29.jpg,saint_bernard_29.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_35.jpg,american_pit_bull_terrier_35.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_216.jpg,Siamese_216.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_92.jpg,shiba_inu_92.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_137.jpg,newfoundland_137.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_87.jpg,leonberger_87.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_139.jpg,Bombay_139.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_41.jpg,wheaten_terrier_41.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_43.jpg,wheaten_terrier_43.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_36.jpg,Maine_Coon_36.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_142.jpg,beagle_142.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_80.jpg,newfoundland_80.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_69.jpg,beagle_69.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_110.jpg,Egyptian_Mau_110.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_260.jpg,Persian_260.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_84.jpg,Maine_Coon_84.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_174.jpg,havanese_174.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_106.jpg,British_Shorthair_106.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_192.jpg,staffordshire_bull_terrier_192.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_37.jpg,german_shorthaired_37.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_204.jpg,Russian_Blue_204.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_133.jpg,Egyptian_Mau_133.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_239.jpg,Persian_239.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_157.jpg,Egyptian_Mau_157.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_86.jpg,Bombay_86.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_130.jpg,wheaten_terrier_130.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_40.jpg,german_shorthaired_40.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_175.jpg,Sphynx_175.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_132.jpg,Abyssinian_132.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_158.jpg,shiba_inu_158.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_91.jpg,samoyed_91.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_205.jpg,Siamese_205.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_44.jpg,wheaten_terrier_44.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_5.jpg,Persian_5.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_52.jpg,samoyed_52.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_134.jpg,British_Shorthair_134.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_124.jpg,scottish_terrier_124.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_210.jpg,Bombay_210.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_39.jpg,samoyed_39.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_82.jpg,keeshond_82.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_60.jpg,staffordshire_bull_terrier_60.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_157.jpg,Bombay_157.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_76.jpg,Birman_76.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_3.jpg,British_Shorthair_3.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_170.jpg,Ragdoll_170.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_73.jpg,great_pyrenees_73.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_185.jpg,samoyed_185.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_42.jpg,english_setter_42.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_8.jpg,Egyptian_Mau_8.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_88.jpg,pug_88.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_30.jpg,Siamese_30.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_120.jpg,saint_bernard_120.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_5.jpg,shiba_inu_5.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_100.jpg,Bengal_100.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_68.jpg,staffordshire_bull_terrier_68.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_96.jpg,British_Shorthair_96.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_107.jpg,scottish_terrier_107.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_92.jpg,boxer_92.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_74.jpg,japanese_chin_74.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_150.jpg,japanese_chin_150.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_97.jpg,american_pit_bull_terrier_97.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_113.jpg,great_pyrenees_113.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_86.jpg,Siamese_86.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_95.jpg,Siamese_95.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_33.jpg,Bombay_33.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_48.jpg,yorkshire_terrier_48.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_2.jpg,japanese_chin_2.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_162.jpg,shiba_inu_162.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_190.jpg,english_setter_190.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_87.jpg,Egyptian_Mau_87.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_114.jpg,Siamese_114.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_146.jpg,shiba_inu_146.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_137.jpg,Ragdoll_137.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_197.jpg,Abyssinian_197.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_134.jpg,Sphynx_134.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_140.jpg,staffordshire_bull_terrier_140.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_58.jpg,keeshond_58.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_151.jpg,scottish_terrier_151.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_56.jpg,yorkshire_terrier_56.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_188.jpg,Siamese_188.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_100.jpg,newfoundland_100.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_136.jpg,shiba_inu_136.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_188.jpg,japanese_chin_188.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_28.jpg,newfoundland_28.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_122.jpg,german_shorthaired_122.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_89.jpg,havanese_89.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_166.jpg,english_cocker_spaniel_166.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_10.jpg,saint_bernard_10.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_49.jpg,Bengal_49.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_130.jpg,Russian_Blue_130.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_6.jpg,great_pyrenees_6.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_173.jpg,pug_173.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_106.jpg,japanese_chin_106.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_47.jpg,Russian_Blue_47.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_7.jpg,Birman_7.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_161.jpg,Ragdoll_161.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_156.jpg,keeshond_156.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_133.jpg,leonberger_133.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_99.jpg,Abyssinian_99.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_136.jpg,beagle_136.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_151.jpg,British_Shorthair_151.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_72.jpg,samoyed_72.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_98.jpg,leonberger_98.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_185.jpg,Birman_185.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_152.jpg,Bombay_152.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_101.jpg,keeshond_101.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_175.jpg,Siamese_175.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_26.jpg,leonberger_26.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_107.jpg,wheaten_terrier_107.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_201.jpg,Abyssinian_201.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_199.jpg,american_pit_bull_terrier_199.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_177.jpg,basset_hound_177.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_39.jpg,beagle_39.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_62.jpg,Ragdoll_62.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_119.jpg,havanese_119.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_54.jpg,Ragdoll_54.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_118.jpg,Abyssinian_118.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_157.jpg,pomeranian_157.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_114.jpg,staffordshire_bull_terrier_114.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_145.jpg,Birman_145.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_78.jpg,american_bulldog_78.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_79.jpg,english_setter_79.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_117.jpg,havanese_117.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_160.jpg,havanese_160.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_105.jpg,pug_105.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_166.jpg,pug_166.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_53.jpg,keeshond_53.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_123.jpg,yorkshire_terrier_123.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_180.jpg,samoyed_180.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_138.jpg,japanese_chin_138.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_113.jpg,beagle_113.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_62.jpg,Bengal_62.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_34.jpg,staffordshire_bull_terrier_34.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_58.jpg,pug_58.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_104.jpg,shiba_inu_104.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_202.jpg,Sphynx_202.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_149.jpg,english_setter_149.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_133.jpg,boxer_133.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_94.jpg,samoyed_94.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_99.jpg,Bengal_99.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_147.jpg,scottish_terrier_147.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_161.jpg,miniature_pinscher_161.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_166.jpg,British_Shorthair_166.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_36.jpg,japanese_chin_36.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_93.jpg,Ragdoll_93.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_176.jpg,Maine_Coon_176.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_162.jpg,basset_hound_162.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_19.jpg,yorkshire_terrier_19.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_116.jpg,Bombay_116.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_107.jpg,Persian_107.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_53.jpg,leonberger_53.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_146.jpg,english_cocker_spaniel_146.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_14.jpg,american_pit_bull_terrier_14.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_108.jpg,wheaten_terrier_108.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_134.jpg,keeshond_134.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_187.jpg,wheaten_terrier_187.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_191.jpg,scottish_terrier_191.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_111.jpg,newfoundland_111.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_193.jpg,great_pyrenees_193.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_157.jpg,keeshond_157.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_153.jpg,havanese_153.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_141.jpg,Bombay_141.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_33.jpg,Bengal_33.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_94.jpg,staffordshire_bull_terrier_94.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_76.jpg,scottish_terrier_76.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_14.jpg,havanese_14.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_187.jpg,english_setter_187.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_87.jpg,Sphynx_87.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_113.jpg,basset_hound_113.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_4.jpg,american_pit_bull_terrier_4.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_9.jpg,beagle_9.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_224.jpg,Siamese_224.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_21.jpg,samoyed_21.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_6.jpg,japanese_chin_6.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_187.jpg,Bengal_187.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_47.jpg,german_shorthaired_47.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_57.jpg,pomeranian_57.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_29.jpg,newfoundland_29.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_263.jpg,Russian_Blue_263.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_139.jpg,staffordshire_bull_terrier_139.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_188.jpg,american_bulldog_188.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_116.jpg,keeshond_116.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_158.jpg,Russian_Blue_158.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_69.jpg,american_pit_bull_terrier_69.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_39.jpg,saint_bernard_39.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_105.jpg,Sphynx_105.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_142.jpg,boxer_142.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_134.jpg,german_shorthaired_134.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_89.jpg,newfoundland_89.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_103.jpg,newfoundland_103.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_34.jpg,havanese_34.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_40.jpg,wheaten_terrier_40.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_40.jpg,japanese_chin_40.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_14.jpg,boxer_14.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_200.jpg,english_cocker_spaniel_200.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_130.jpg,havanese_130.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_160.jpg,yorkshire_terrier_160.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_75.jpg,chihuahua_75.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_50.jpg,Abyssinian_50.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_240.jpg,Sphynx_240.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_3.jpg,Egyptian_Mau_3.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_81.jpg,Birman_81.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_20.jpg,miniature_pinscher_20.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_200.jpg,pug_200.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_128.jpg,basset_hound_128.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_192.jpg,miniature_pinscher_192.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_81.jpg,american_bulldog_81.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_68.jpg,pomeranian_68.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_199.jpg,British_Shorthair_199.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_7.jpg,newfoundland_7.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_33.jpg,great_pyrenees_33.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_17.jpg,pug_17.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_91.jpg,english_setter_91.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_115.jpg,wheaten_terrier_115.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_177.jpg,miniature_pinscher_177.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_133.jpg,Bengal_133.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_198.jpg,pug_198.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_148.jpg,Maine_Coon_148.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_166.jpg,Abyssinian_166.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_36.jpg,great_pyrenees_36.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_181.jpg,Russian_Blue_181.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_24.jpg,chihuahua_24.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_60.jpg,samoyed_60.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_115.jpg,chihuahua_115.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_84.jpg,newfoundland_84.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_160.jpg,english_cocker_spaniel_160.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_86.jpg,scottish_terrier_86.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_80.jpg,scottish_terrier_80.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_50.jpg,chihuahua_50.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_71.jpg,British_Shorthair_71.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_252.jpg,Ragdoll_252.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_105.jpg,boxer_105.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_15.jpg,Persian_15.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_168.jpg,samoyed_168.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_100.jpg,american_pit_bull_terrier_100.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_79.jpg,basset_hound_79.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_194.jpg,yorkshire_terrier_194.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_143.jpg,wheaten_terrier_143.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_25.jpg,pomeranian_25.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/samoyed_85.jpg,samoyed_85.jpg,samoyed,Samoyed,dog,Chó,31
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_134.jpg,Egyptian_Mau_134.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_35.jpg,wheaten_terrier_35.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_179.jpg,staffordshire_bull_terrier_179.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_93.jpg,Sphynx_93.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_98.jpg,beagle_98.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_67.jpg,saint_bernard_67.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_199.jpg,Egyptian_Mau_199.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_44.jpg,pug_44.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_180.jpg,beagle_180.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_43.jpg,Bengal_43.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_70.jpg,havanese_70.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_118.jpg,saint_bernard_118.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_57.jpg,Ragdoll_57.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_175.jpg,wheaten_terrier_175.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_56.jpg,boxer_56.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_160.jpg,Bengal_160.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_42.jpg,Maine_Coon_42.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_37.jpg,scottish_terrier_37.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_184.jpg,english_setter_184.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_31.jpg,american_pit_bull_terrier_31.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_120.jpg,miniature_pinscher_120.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_188.jpg,Bengal_188.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_124.jpg,japanese_chin_124.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/scottish_terrier_4.jpg,scottish_terrier_4.jpg,scottish_terrier,Scottish Terrier,dog,Chó,32
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_177.jpg,wheaten_terrier_177.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_108.jpg,boxer_108.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_88.jpg,Russian_Blue_88.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_182.jpg,newfoundland_182.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_63.jpg,boxer_63.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_124.jpg,saint_bernard_124.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_62.jpg,american_pit_bull_terrier_62.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_96.jpg,saint_bernard_96.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_29.jpg,chihuahua_29.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_195.jpg,pomeranian_195.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_32.jpg,boxer_32.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_57.jpg,British_Shorthair_57.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_127.jpg,Egyptian_Mau_127.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_264.jpg,Persian_264.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_86.jpg,staffordshire_bull_terrier_86.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_100.jpg,Siamese_100.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_147.jpg,Persian_147.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_166.jpg,shiba_inu_166.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_67.jpg,german_shorthaired_67.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_136.jpg,yorkshire_terrier_136.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_185.jpg,pomeranian_185.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_151.jpg,Abyssinian_151.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_46.jpg,British_Shorthair_46.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_87.jpg,miniature_pinscher_87.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_194.jpg,Birman_194.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Birman_150.jpg,Birman_150.jpg,Birman,Birman,cat,Mèo,2
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_90.jpg,leonberger_90.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_79.jpg,american_bulldog_79.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_91.jpg,leonberger_91.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Siamese_40.jpg,Siamese_40.jpg,Siamese,Siamese,cat,Mèo,10
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_210.jpg,shiba_inu_210.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_168.jpg,Egyptian_Mau_168.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_50.jpg,boxer_50.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_105.jpg,english_cocker_spaniel_105.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/wheaten_terrier_110.jpg,wheaten_terrier_110.jpg,wheaten_terrier,Wheaten Terrier,dog,Chó,35
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_57.jpg,american_bulldog_57.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_184.jpg,beagle_184.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_140.jpg,pomeranian_140.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_163.jpg,pug_163.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_61.jpg,pomeranian_61.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_48.jpg,pomeranian_48.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_70.jpg,Persian_70.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_61.jpg,Sphynx_61.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_176.jpg,Bombay_176.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_169.jpg,Abyssinian_169.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_124.jpg,shiba_inu_124.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_51.jpg,beagle_51.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_47.jpg,beagle_47.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/staffordshire_bull_terrier_166.jpg,staffordshire_bull_terrier_166.jpg,staffordshire_bull_terrier,Staffordshire Bull Terrier,dog,Chó,34
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_185.jpg,english_cocker_spaniel_185.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bombay_88.jpg,Bombay_88.jpg,Bombay,Bombay,cat,Mèo,3
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_140.jpg,Russian_Blue_140.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_157.jpg,Maine_Coon_157.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_191.jpg,chihuahua_191.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_118.jpg,english_setter_118.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_122.jpg,pug_122.jpg,pug,Pug,dog,Chó,29
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_12.jpg,great_pyrenees_12.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_159.jpg,shiba_inu_159.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/basset_hound_8.jpg,basset_hound_8.jpg,basset_hound,Basset Hound,dog,Chó,14
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_28.jpg,Persian_28.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_135.jpg,boxer_135.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/shiba_inu_134.jpg,shiba_inu_134.jpg,shiba_inu,Shiba Inu,dog,Chó,33
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_59.jpg,english_cocker_spaniel_59.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_176.jpg,Persian_176.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_96.jpg,great_pyrenees_96.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_22.jpg,Abyssinian_22.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pomeranian_69.jpg,pomeranian_69.jpg,pomeranian,Pomeranian,dog,Chó,28
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_47.jpg,english_setter_47.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/boxer_167.jpg,boxer_167.jpg,boxer,Boxer,dog,Chó,16
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_12.jpg,chihuahua_12.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_18.jpg,american_pit_bull_terrier_18.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_143.jpg,english_cocker_spaniel_143.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_115.jpg,Sphynx_115.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_45.jpg,great_pyrenees_45.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_68.jpg,american_pit_bull_terrier_68.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_28.jpg,american_bulldog_28.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_26.jpg,beagle_26.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/japanese_chin_60.jpg,japanese_chin_60.jpg,japanese_chin,Japanese Chin,dog,Chó,23
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_31.jpg,Bengal_31.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/yorkshire_terrier_16.jpg,yorkshire_terrier_16.jpg,yorkshire_terrier,Yorkshire Terrier,dog,Chó,36
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_80.jpg,saint_bernard_80.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_199.jpg,german_shorthaired_199.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_149.jpg,american_pit_bull_terrier_149.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_34.jpg,Persian_34.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_bulldog_24.jpg,american_bulldog_24.jpg,american_bulldog,American Bulldog,dog,Chó,12
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_161.jpg,german_shorthaired_161.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/newfoundland_38.jpg,newfoundland_38.jpg,newfoundland,Newfoundland,dog,Chó,27
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_45.jpg,Ragdoll_45.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/beagle_171.jpg,beagle_171.jpg,beagle,Beagle,dog,Chó,15
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_127.jpg,havanese_127.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Egyptian_Mau_185.jpg,Egyptian_Mau_185.jpg,Egyptian_Mau,Egyptian Mau,cat,Mèo,5
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/great_pyrenees_17.jpg,great_pyrenees_17.jpg,great_pyrenees,Great Pyrenees,dog,Chó,21
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_70.jpg,keeshond_70.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Abyssinian_117.jpg,Abyssinian_117.jpg,Abyssinian,Abyssinian,cat,Mèo,0
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_113.jpg,Ragdoll_113.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_setter_73.jpg,english_setter_73.jpg,english_setter,English Setter,dog,Chó,19
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/chihuahua_16.jpg,chihuahua_16.jpg,chihuahua,Chihuahua,dog,Chó,17
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/leonberger_163.jpg,leonberger_163.jpg,leonberger,Leonberger,dog,Chó,25
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_148.jpg,keeshond_148.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_52.jpg,miniature_pinscher_52.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Bengal_48.jpg,Bengal_48.jpg,Bengal,Bengal,cat,Mèo,1
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_125.jpg,english_cocker_spaniel_125.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_159.jpg,Russian_Blue_159.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Ragdoll_63.jpg,Ragdoll_63.jpg,Ragdoll,Ragdoll,cat,Mèo,8
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Maine_Coon_158.jpg,Maine_Coon_158.jpg,Maine_Coon,Maine Coon,cat,Mèo,6
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/British_Shorthair_85.jpg,British_Shorthair_85.jpg,British_Shorthair,British Shorthair,cat,Mèo,4
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Russian_Blue_123.jpg,Russian_Blue_123.jpg,Russian_Blue,Russian Blue,cat,Mèo,9
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_9.jpg,saint_bernard_9.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_197.jpg,Persian_197.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Persian_31.jpg,Persian_31.jpg,Persian,Persian,cat,Mèo,7
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/miniature_pinscher_196.jpg,miniature_pinscher_196.jpg,miniature_pinscher,Miniature Pinscher,dog,Chó,26
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/american_pit_bull_terrier_46.jpg,american_pit_bull_terrier_46.jpg,american_pit_bull_terrier,American Pit Bull Terrier,dog,Chó,13
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/saint_bernard_94.jpg,saint_bernard_94.jpg,saint_bernard,Saint Bernard,dog,Chó,30
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/keeshond_166.jpg,keeshond_166.jpg,keeshond,Keeshond,dog,Chó,24
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/havanese_173.jpg,havanese_173.jpg,havanese,Havanese,dog,Chó,22
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/german_shorthaired_119.jpg,german_shorthaired_119.jpg,german_shorthaired,German Shorthaired,dog,Chó,20
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/english_cocker_spaniel_178.jpg,english_cocker_spaniel_178.jpg,english_cocker_spaniel,English Cocker Spaniel,dog,Chó,18
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/Sphynx_167.jpg,Sphynx_167.jpg,Sphynx,Sphynx,cat,Mèo,11
+/content/drive/MyDrive/HOCSAU/data/oxford_iiit_pet_extracted/images/pug_146.jpg,pug_146.jpg,pug,Pug,dog,Chó,29

@@ -1,0 +1,9 @@
+﻿source,split,class,count
+microsoft,test,cats,1424
+microsoft,test,dogs,1416
+microsoft,train,cats,5693
+microsoft,train,dogs,5703
+old,test,cats,576
+old,test,dogs,584
+old,train,cats,2307
+old,train,dogs,2297

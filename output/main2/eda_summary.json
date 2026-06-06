@@ -1,0 +1,10 @@
+{
+  "dataset_dir": "/content/drive/MyDrive/HOCSAU/data/dataset_combined_main",
+  "train_cats": 8000,
+  "train_dogs": 8000,
+  "test_cats": 2000,
+  "test_dogs": 2000,
+  "total_train": 16000,
+  "total_test": 4000,
+  "total_all": 20000
+}

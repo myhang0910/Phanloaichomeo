@@ -1,0 +1,23 @@
+{
+  "project_dir": "/content/drive/MyDrive/HOCSAU",
+  "old_dataset_dir": "/content/drive/MyDrive/HOCSAU/data/catdog",
+  "microsoft_dataset_dir": "/content/drive/MyDrive/HOCSAU/data/catdog_microsoft",
+  "combined_dataset_dir": "/content/drive/MyDrive/HOCSAU/data/dataset_combined_main",
+  "log_dir": "/content/drive/MyDrive/HOCSAU/output/main/dataset_build_logs",
+  "target_images_per_class": 10000,
+  "train_ratio": 0.8,
+  "seed": 42,
+  "rebuild": true,
+  "final_counts": {
+    "train_cats": 8000,
+    "train_dogs": 8000,
+    "test_cats": 2000,
+    "test_dogs": 2000,
+    "total_train": 16000,
+    "total_test": 4000,
+    "total_all": 20000
+  },
+  "skipped_bad_images": 2,
+  "duplicate_images_removed": 46,
+  "elapsed_seconds": 1313.02
+}

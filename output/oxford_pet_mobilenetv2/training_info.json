@@ -1,0 +1,18 @@
+{
+    "model_name": "mobilenetv2_oxford_pet",
+    "phase": "phase_1_train_head",
+    "num_classes": 37,
+    "img_size": 224,
+    "batch_size": 32,
+    "epochs": 5,
+    "initial_epoch": 0,
+    "learning_rate": 0.001,
+    "use_class_weight": false,
+    "train_images": 5912,
+    "val_images": 739,
+    "test_images": 739,
+    "train_time_seconds": 2444.689785003662,
+    "best_model_path": "/content/drive/MyDrive/HOCSAU/output/oxford_pet_mobilenetv2/best_mobilenetv2_oxford_pet.keras",
+    "latest_model_path": "/content/drive/MyDrive/HOCSAU/output/oxford_pet_mobilenetv2/latest_mobilenetv2_oxford_pet.keras",
+    "final_model_path": "/content/drive/MyDrive/HOCSAU/output/oxford_pet_mobilenetv2/final_mobilenetv2_oxford_pet.keras"
+}

@@ -1,0 +1,5 @@
+﻿split,class,count
+test,cats,2000
+test,dogs,2000
+train,cats,8000
+train,dogs,8000

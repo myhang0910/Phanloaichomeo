@@ -1,0 +1,21 @@
+{
+  "recommended_threshold": 0.35000000000000003,
+  "selection_metric": "validation_f1",
+  "best_by_f1": {
+    "threshold": 0.35000000000000003,
+    "accuracy": 0.9584375,
+    "precision": 0.967701076630779,
+    "recall": 0.9490683229813665,
+    "f1": 0.9582941360928191,
+    "auc": 0.9941099261689909
+  },
+  "best_by_accuracy": {
+    "threshold": 0.35000000000000003,
+    "accuracy": 0.9584375,
+    "precision": 0.967701076630779,
+    "recall": 0.9490683229813665,
+    "f1": 0.9582941360928191,
+    "auc": 0.9941099261689909
+  },
+  "note": "Threshold được chọn trên validation set, không chọn bằng test set."
+}

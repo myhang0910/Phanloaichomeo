@@ -1,0 +1,18 @@
+{
+  "class_names": [
+    "cats",
+    "dogs"
+  ],
+  "class_names_vi": [
+    "Mèo",
+    "Chó"
+  ],
+  "label_mode": "binary",
+  "class_mapping": {
+    "cats": 0,
+    "dogs": 1
+  },
+  "positive_class": "dogs",
+  "positive_class_index": 1,
+  "note": "Với binary sigmoid: output gần 0 là cats, output gần 1 là dogs."
+}

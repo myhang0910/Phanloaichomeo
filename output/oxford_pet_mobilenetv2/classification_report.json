@@ -1,0 +1,237 @@
+{
+    "Abyssinian": {
+        "precision": 0.8181818181818182,
+        "recall": 0.9,
+        "f1-score": 0.8571428571428571,
+        "support": 20.0
+    },
+    "Bengal": {
+        "precision": 1.0,
+        "recall": 0.65,
+        "f1-score": 0.7878787878787878,
+        "support": 20.0
+    },
+    "Birman": {
+        "precision": 0.75,
+        "recall": 0.9,
+        "f1-score": 0.8181818181818182,
+        "support": 20.0
+    },
+    "Bombay": {
+        "precision": 1.0,
+        "recall": 0.9,
+        "f1-score": 0.9473684210526315,
+        "support": 20.0
+    },
+    "British Shorthair": {
+        "precision": 0.6923076923076923,
+        "recall": 0.9,
+        "f1-score": 0.782608695652174,
+        "support": 20.0
+    },
+    "Egyptian Mau": {
+        "precision": 0.7391304347826086,
+        "recall": 0.85,
+        "f1-score": 0.7906976744186046,
+        "support": 20.0
+    },
+    "Maine Coon": {
+        "precision": 0.8181818181818182,
+        "recall": 0.9,
+        "f1-score": 0.8571428571428571,
+        "support": 20.0
+    },
+    "Persian": {
+        "precision": 0.9473684210526315,
+        "recall": 0.9,
+        "f1-score": 0.9230769230769231,
+        "support": 20.0
+    },
+    "Ragdoll": {
+        "precision": 0.875,
+        "recall": 0.7,
+        "f1-score": 0.7777777777777778,
+        "support": 20.0
+    },
+    "Russian Blue": {
+        "precision": 0.8823529411764706,
+        "recall": 0.75,
+        "f1-score": 0.8108108108108109,
+        "support": 20.0
+    },
+    "Siamese": {
+        "precision": 0.8947368421052632,
+        "recall": 0.85,
+        "f1-score": 0.8717948717948718,
+        "support": 20.0
+    },
+    "Sphynx": {
+        "precision": 1.0,
+        "recall": 0.95,
+        "f1-score": 0.9743589743589743,
+        "support": 20.0
+    },
+    "American Bulldog": {
+        "precision": 0.7083333333333334,
+        "recall": 0.85,
+        "f1-score": 0.7727272727272727,
+        "support": 20.0
+    },
+    "American Pit Bull Terrier": {
+        "precision": 0.6875,
+        "recall": 0.55,
+        "f1-score": 0.6111111111111112,
+        "support": 20.0
+    },
+    "Basset Hound": {
+        "precision": 0.8181818181818182,
+        "recall": 0.9,
+        "f1-score": 0.8571428571428571,
+        "support": 20.0
+    },
+    "Beagle": {
+        "precision": 0.85,
+        "recall": 0.85,
+        "f1-score": 0.85,
+        "support": 20.0
+    },
+    "Boxer": {
+        "precision": 0.8181818181818182,
+        "recall": 0.9,
+        "f1-score": 0.8571428571428571,
+        "support": 20.0
+    },
+    "Chihuahua": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9,
+        "f1-score": 0.8780487804878049,
+        "support": 20.0
+    },
+    "English Cocker Spaniel": {
+        "precision": 0.95,
+        "recall": 0.95,
+        "f1-score": 0.95,
+        "support": 20.0
+    },
+    "English Setter": {
+        "precision": 0.8947368421052632,
+        "recall": 0.85,
+        "f1-score": 0.8717948717948718,
+        "support": 20.0
+    },
+    "German Shorthaired": {
+        "precision": 0.9473684210526315,
+        "recall": 0.9,
+        "f1-score": 0.9230769230769231,
+        "support": 20.0
+    },
+    "Great Pyrenees": {
+        "precision": 1.0,
+        "recall": 0.95,
+        "f1-score": 0.9743589743589743,
+        "support": 20.0
+    },
+    "Havanese": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1-score": 0.975609756097561,
+        "support": 20.0
+    },
+    "Japanese Chin": {
+        "precision": 0.9047619047619048,
+        "recall": 0.95,
+        "f1-score": 0.926829268292683,
+        "support": 20.0
+    },
+    "Keeshond": {
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "f1-score": 0.9523809523809523,
+        "support": 20.0
+    },
+    "Leonberger": {
+        "precision": 1.0,
+        "recall": 0.9,
+        "f1-score": 0.9473684210526315,
+        "support": 20.0
+    },
+    "Miniature Pinscher": {
+        "precision": 0.7727272727272727,
+        "recall": 0.85,
+        "f1-score": 0.8095238095238095,
+        "support": 20.0
+    },
+    "Newfoundland": {
+        "precision": 1.0,
+        "recall": 0.95,
+        "f1-score": 0.9743589743589743,
+        "support": 20.0
+    },
+    "Pomeranian": {
+        "precision": 1.0,
+        "recall": 0.9,
+        "f1-score": 0.9473684210526315,
+        "support": 20.0
+    },
+    "Pug": {
+        "precision": 1.0,
+        "recall": 0.9,
+        "f1-score": 0.9473684210526315,
+        "support": 20.0
+    },
+    "Saint Bernard": {
+        "precision": 0.9473684210526315,
+        "recall": 0.9,
+        "f1-score": 0.9230769230769231,
+        "support": 20.0
+    },
+    "Samoyed": {
+        "precision": 0.8333333333333334,
+        "recall": 1.0,
+        "f1-score": 0.9090909090909091,
+        "support": 20.0
+    },
+    "Scottish Terrier": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1-score": 0.975609756097561,
+        "support": 20.0
+    },
+    "Shiba Inu": {
+        "precision": 0.8947368421052632,
+        "recall": 0.85,
+        "f1-score": 0.8717948717948718,
+        "support": 20.0
+    },
+    "Staffordshire Bull Terrier": {
+        "precision": 0.6842105263157895,
+        "recall": 0.6842105263157895,
+        "f1-score": 0.6842105263157895,
+        "support": 19.0
+    },
+    "Wheaten Terrier": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 20.0
+    },
+    "Yorkshire Terrier": {
+        "precision": 1.0,
+        "recall": 0.9,
+        "f1-score": 0.9473684210526315,
+        "support": 20.0
+    },
+    "accuracy": 0.8795669824086604,
+    "macro avg": {
+        "precision": 0.8864782749171632,
+        "recall": 0.8793029871977243,
+        "f1-score": 0.8793568526587116,
+        "support": 739.0
+    },
+    "weighted avg": {
+        "precision": 0.8867519795837413,
+        "recall": 0.8795669824086604,
+        "f1-score": 0.8796209207593106,
+        "support": 739.0
+    }
+}

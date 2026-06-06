@@ -1,0 +1,50 @@
+{
+  "model_name": "cnn_cat_dog_main2",
+  "task": "binary_cat_dog_classification",
+  "model_path": "/content/drive/MyDrive/HOCSAU/output/main2/best_cnn_cats_dogs_main2.keras",
+  "latest_model_path": "/content/drive/MyDrive/HOCSAU/output/main2/latest_cnn_cats_dogs_main2.keras",
+  "final_model_path": "/content/drive/MyDrive/HOCSAU/output/main2/final_cnn_cats_dogs_main2.keras",
+  "recommended_threshold": 0.35000000000000003,
+  "default_threshold": 0.5,
+  "img_size": [
+    150,
+    150
+  ],
+  "class_names": [
+    "cats",
+    "dogs"
+  ],
+  "class_names_vi": [
+    "Mèo",
+    "Chó"
+  ],
+  "class_mapping": {
+    "cats": 0,
+    "dogs": 1
+  },
+  "positive_class": "dogs",
+  "positive_class_index": 1,
+  "preprocess_note": "Ảnh đầu vào nên convert RGB và resize theo img_size. Không chia 255 trong app vì model đã có Rescaling(1./255).",
+  "output_note": "Sigmoid output: prob_dog >= threshold là Chó, ngược lại là Mèo.",
+  "test_metrics_threshold_0_50": {
+    "threshold": 0.5,
+    "accuracy": 0.95525,
+    "precision": 0.9705426356589147,
+    "recall": 0.939,
+    "f1": 0.9545108005082592,
+    "auc": 0.99278575
+  },
+  "test_metrics_recommended_threshold": {
+    "threshold": 0.35000000000000003,
+    "accuracy": 0.95775,
+    "precision": 0.9654295882053889,
+    "recall": 0.9495,
+    "f1": 0.9573985379379885,
+    "auc": 0.99278575
+  },
+  "output_dir": "/content/drive/MyDrive/HOCSAU/output/main2",
+  "history_csv": "/content/drive/MyDrive/HOCSAU/output/main2/history.csv",
+  "test_predictions_csv": "/content/drive/MyDrive/HOCSAU/output/main2/test_predictions.csv",
+  "classification_report_csv": "/content/drive/MyDrive/HOCSAU/output/main2/classification_report.csv",
+  "confusion_matrix_png": "/content/drive/MyDrive/HOCSAU/output/main2/confusion_matrix.png"
+}
