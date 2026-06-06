@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>app_chomeo - Phân loại chó mèo</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700;800&display=swap&subset=vietnamese" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+    <section class="hero" id="home">
+        <div class="hero-left">
+            <div class="pet-blob real-pet-blob">
+                <div class="hero-color-accent accent-one"></div>
+                <div class="hero-color-accent accent-two"></div>
+
+                <div class="paw paw-1">🐾</div>
+                <div class="paw paw-2">🐾</div>
+                <div class="paw paw-3">🐾</div>
+                <div class="paw paw-4">🐾</div>
+
+                <div class="hero-real-pet">
+                    <img
+                        src="{{ url_for('static', filename='images/hero_pet_pair.png') }}"  #file ảnh
+                        alt="Ảnh chó và mèo"
+                    >
+                </div>
+            </div>
+        </div>
+
+        <div class="hero-right">
+            <h1>PHÂN LOẠI<br>CHÓ MÈO</h1>
+            <p>Tải ảnh lên và khám phá loài của thú cưng của bạn.</p>
+
+            <div class="hero-actions">
+                <button class="primary-btn" onclick="scrollToApp()">BẮT ĐẦU</button>
+                <button class="ghost-btn" onclick="checkHealth()">Kiểm tra API</button>
+            </div>
+
+            <div class="health-box" id="healthBox"></div>
+        </div>
+    </section>
+
+    <section class="app-section" id="classifier">
+        <div class="section-header">
+            <span class="mini-title">Demo nhận diện</span>
+            <h2>Chọn chức năng</h2>
+            <p>Upload ảnh thú cưng, hệ thống sẽ trả về kết quả dự đoán và độ tin cậy.</p>
+        </div>
+
+        <div class="tabs">
+            <button class="tab-btn active" data-tab="tab-pet" onclick="switchTab('tab-pet')">🐶🐱 Nhận Diện Chó/Mèo</button>
+            <button class="tab-btn" data-tab="tab-breed" onclick="switchTab('tab-breed')">🏷️ Nhận Diện Giống</button>
+        </div>
+
+        <div class="tab-content active" id="tab-pet">
+            <div class="panel">
+                <div class="upload-panel">
+                    <h3>Ảnh cần nhận diện</h3>
+                    <p>Hỗ trợ JPG, PNG, WebP. Kéo thả ảnh hoặc chọn từ máy.</p>
+
+                    <div class="drop-zone" id="dropPet">
+                        <input type="file" id="petInput" accept="image/jpeg,image/png,image/webp,image/bmp" hidden />
+                        <div class="drop-icon">📷</div>
+                        <strong>Kéo thả ảnh vào đây</strong>
+                        <span>hoặc bấm để chọn ảnh</span>
+                    </div>
+
+                    <div class="preview-wrap" id="petPreviewWrap">
+                        <img id="petPreview" alt="Ảnh xem trước" />
+                    </div>
+
+                    <div class="button-row">
+                        <button class="primary-btn small" onclick="classifyPet()">Dự đoán</button>
+                        <button class="outline-btn small" onclick="resetPet()">Tải ảnh mới</button>
+                    </div>
+                </div>
+
+                <div class="result-panel" id="petResult">
+                    <div class="empty-state">
+                        <div>🐾</div>
+                        <p>Kết quả sẽ hiển thị tại đây.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content" id="tab-breed">
+            <div class="panel">
+                <div class="upload-panel">
+                    <h3>Ảnh cần nhận diện giống</h3>
+                    <p>Model Oxford Pet dự đoán top 5 giống phù hợp nhất.</p>
+
+                    <div class="drop-zone" id="dropBreed">
+                        <input type="file" id="breedInput" accept="image/jpeg,image/png,image/webp,image/bmp" hidden />
+                        <div class="drop-icon">🏷️</div>
+                        <strong>Kéo thả ảnh vào đây</strong>
+                        <span>hoặc bấm để chọn ảnh</span>
+                    </div>
+
+                    <div class="preview-wrap" id="breedPreviewWrap">
+                        <img id="breedPreview" alt="Ảnh xem trước" />
+                    </div>
+
+                    <div class="button-row">
+                        <button class="primary-btn small" onclick="classifyBreed()">Nhận diện giống</button>
+                        <button class="outline-btn small" onclick="resetBreed()">Tải ảnh mới</button>
+                    </div>
+                </div>
+
+                <div class="result-panel" id="breedResult">
+                    <div class="empty-state">
+                        <div>🏷️</div>
+                        <p>Top 5 giống sẽ hiển thị tại đây.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <span>app_chomeo | CNN + MobileNetV2 | Colab Demo</span>
+    </footer>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
