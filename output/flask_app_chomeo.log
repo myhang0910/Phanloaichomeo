@@ -1,0 +1,45 @@
+2026-05-28 12:27:01.035515: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+================================================================================
+APP_CHOMEO - LOAD MODELS
+APP_VERSION: v3_oxford_raw_resize_with_pad_no_breed_filter
+PROJECT_DIR: /content/drive/MyDrive/HOCSAU
+CATDOG_MODEL_PATH: /content/drive/MyDrive/HOCSAU/output/main2/best_cnn_cats_dogs_main2.keras
+BREED_MODEL_PATH: /content/drive/MyDrive/HOCSAU/output/oxford_pet_mobilenetv2/best_mobilenetv2_oxford_pet.keras
+================================================================================
+[OK] Loaded cat/dog model.
+Cat/Dog model name: cnn_cat_dog_v2
+Cat/Dog input shape: (None, 150, 150, 3)
+[OK] Loaded Oxford Pet breed model.
+Breed model name: mobilenetv2_oxford_pet
+Breed input shape: (None, 224, 224, 3)
+class_names: 37
+species_map: 93
+tensorflow: 2.20.0
+================================================================================
+ * Serving Flask app 'app_chomeo'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.28.0.12:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [28/May/2026 12:27:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:27:15] "GET /static/js/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:27:15] "GET /static/images/hero_pet_pair.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:27:16] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:27:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [28/May/2026 12:27:29] "POST /api/classify-pet HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:27:46] "POST /api/classify-pet HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:27:54] "POST /api/classify-breed HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:28:08] "POST /api/classify-breed HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:28:20] "POST /api/classify-breed HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:28:28] "POST /api/classify-breed HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:28:55] "POST /api/classify-breed HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:29:08] "POST /api/classify-pet HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:29:42] "POST /api/classify-pet HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:29:48] "POST /api/classify-pet HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:29:57] "POST /api/classify-pet HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:30:03] "POST /api/classify-breed HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:30:44] "POST /api/classify-pet HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:30:57] "POST /api/classify-breed HTTP/1.1" 200 -
+127.0.0.1 - - [28/May/2026 12:31:12] "POST /api/classify-breed HTTP/1.1" 200 -
